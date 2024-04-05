@@ -1,4 +1,5 @@
 # Fake News Detection: Traditional ML vs. LSTM Models
+Fake New Detection Model using Ml and LSTM
 
 Welcome to the Fake News Detection project repository. This project aims to compare the performance of traditional machine learning models with a Long Short-Term Memory (LSTM) model in identifying and differentiating between real and fake news articles. 
 
