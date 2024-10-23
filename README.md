@@ -20,6 +20,7 @@ The performance of the models is summarized as follows:
 - Naive Bayes achieved an accuracy of 73.4% with 3 false positives and 1215 false negatives.
 - Decision Tree achieved an accuracy of 88.5% with 259 false positives and 265 false negatives.
 - Long Short-Term Memory achieved an accuracy of 92.1% with 254 false positives and 105 false negatives.
+- Access the research work [here](https://www.researchgate.net/publication/379082742_An_Analytical_Exploration_Assessing_the_Efficacy_of_Traditional_Machine_Learning_Techniques_and_LSTM_Models_in_Identifying_Fake_News?channel=doi&linkId=65fa68f1d3a0855142351d0f&showFulltext=true) 
 
 ## Conclusion
 
